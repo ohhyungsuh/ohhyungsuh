@@ -60,12 +60,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELB-FF4F00?style=flat&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=AmazonEKS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route53-232F3E?style=flat&logo=AmazonRoute53&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white"/>
 </p>
