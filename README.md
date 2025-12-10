@@ -18,11 +18,13 @@ Backend Developer
 ### Open Source Contribution
 
 제가 참여한 오픈소스 프로젝트들의 Pull Request 기록입니다.  
-머지 여부와 상관없이 학습과 기여 과정의 흔적으로 남깁니다.
+머지 여부와 상관없이 남깁니다.
 
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
 | [WireMock](https://github.com/wiremock/wiremock) | [#3135](https://github.com/wiremock/wiremock/pull/3135) | `equalToJsonPattern` 메서드에 `ignoreNullFields` 플래그 추가하여 null 필드를 무시하도록 개선 | 🟡 Pending |
+| [WireMock](https://github.com/wiremock/wiremock) | [#3135](https://github.com/wiremock/wiremock/pull/3269) | expected Value가 list type일 때, null 필드를 String value로 변환하도록 수정 | 🟡 Pending |
+
 
 ---
 
