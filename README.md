@@ -23,7 +23,7 @@ Backend Developer
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
 | [WireMock](https://github.com/wiremock/wiremock) | [#3135](https://github.com/wiremock/wiremock/pull/3135) | `equalToJsonPattern` 메서드에 `ignoreNullFields` 플래그 추가하여 null 필드를 무시하도록 개선 | Pending |
-| [WireMock](https://github.com/wiremock/wiremock) | [#3269](https://github.com/wiremock/wiremock/pull/3269) | expected Value가 list type일 때, null 필드를 String value로 변환하도록 수정 | Completed |
+| [WireMock](https://github.com/wiremock/wiremock) | [#3269](https://github.com/wiremock/wiremock/pull/3269) | expected Value가 list type일 때, null 필드를 String value로 변환하도록 수정 | Merged |
 
 
 ---
