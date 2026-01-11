@@ -7,8 +7,6 @@ Backend Developer
 ### Status  
 
 <p align="center">
-  <!-- GitHub Stats (무난 톤) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ohhyungsuh&show_icons=true&bg_color=00000000&title_color=4F46E5&icon_color=F1D246&text_color=8C9196" height="180em"/>
   <!-- Solved.ac -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohhyungsuh" height="180em"/>
 </p>
@@ -17,8 +15,7 @@ Backend Developer
 
 ### Open Source Contribution
 
-제가 참여한 오픈소스 프로젝트들의 Pull Request 기록입니다.  
-머지 여부와 상관없이 남깁니다.
+오픈소스 프로젝트 Pull Request 기록입니다.  
 
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
@@ -33,8 +30,6 @@ Backend Developer
 #### Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
 
 #### Frameworks & Libraries  
@@ -48,7 +43,6 @@ Backend Developer
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
 </p>
 
 #### Testing  
