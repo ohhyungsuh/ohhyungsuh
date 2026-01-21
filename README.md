@@ -1,21 +1,8 @@
 ## 오형서 Oh Hyung Suh
 
-Backend Developer  
 
----
-
-### Status  
-
-<p align="center">
-  <!-- Solved.ac -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohhyungsuh" height="180em"/>
-</p>
-
----
 
 ### Open Source Contribution
-
-오픈소스 프로젝트 Pull Request 기록입니다.  
 
 | Project | PR | Description | Status |
 |---------|----|-------------|--------|
